@@ -1,8 +1,10 @@
 # Miro360:
-Miro360 is an app for subjective quality assessment in immersive environments. This is the PC version of the app.
+.
 
 The Windows version can be downloaded [here](https://drive.upm.es/index.php/s/l7bEnAcoC5lxvvo)
 
+
+Miro360 is an interactive virtual reality tool for subjective assessment designed under the scope of ITU-T Study Group 12 and the Video Quality Experts Group in the development of the future ITU-T Recommendation P.360-VR for the subjective assessment of 360 videos using Head-Mounted Displays (HMDs). The tool has been designed under the Unity3D engine to be used on multiple HMDs. Furthermore, it can be configured for a variety of custom or predefined questions while the video sequence is played and/or after its ending. The head tracking is also registered in degrees. The voting method is gaze-based using joysticks keys for confirmation.
 
 # Citation:
 If you use this software in your research, please cite the 
